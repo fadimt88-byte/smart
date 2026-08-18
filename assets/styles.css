@@ -66,8 +66,8 @@ nav a:hover, nav a.active{color:var(--white);}
 .page-hero p{font-size:16.5px; color:var(--steel-light); max-width:560px;}
 
 /* ===== Hero (home only, larger) ===== */
-.hero{position:relative; background:var(--ink); color:var(--white); overflow:hidden; padding:110px 0 130px;}
-.hero-bg{position:absolute; inset:0; background-size:cover; background-position:center; opacity:0.55;}
+.hero{position:relative; background:var(--ink); color:var(--white); overflow:hidden; padding:80px 0 64px;}
+.hero-bg{position:absolute; inset:0; background-size:cover; background-position:center; opacity:0.8;}
 .hero-inner{position:relative; z-index:2; max-width:720px;}
 [dir="rtl"] .hero-inner{margin-inline-start:0; margin-inline-end:auto;}
 [dir="ltr"] .hero-inner{margin-inline-start:0; margin-inline-end:auto;}
